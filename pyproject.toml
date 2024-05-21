@@ -46,7 +46,7 @@ flask-weasyprint = "*"
 gevent = "^23.9.0"
 gunicorn = "^21.2.0"
 icalendar =  "^5.0.10"
-pymysql = "^1.1.0"
+pymysql = "^1.1.1"
 python-dotenv = "^1.0.0"
 sentry-sdk = {extras = ["sqlalchemy"], version = "^1.32.0"}
 turbo-flask = "^0.8.4"
